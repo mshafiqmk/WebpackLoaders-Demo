@@ -7,5 +7,5 @@ npm run build
 
 node x.js
 
-cd build 
+cd build & 
 node index.bundle.js
