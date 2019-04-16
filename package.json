@@ -1,0 +1,20 @@
+{
+  "name": "webpack-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "x.js",
+  "scripts": {
+    "build": "webpack --progress"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "file-loader": "^3.0.1",
+    "json-loader": "^0.5.7",
+    "raw-loader": "^2.0.0",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0"
+  }
+}
